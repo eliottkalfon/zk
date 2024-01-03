@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b284c8220d90ec83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Syncing zettelkasten with git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Reacting to setbacks.md",
+                "file": "Zettelkasten/Syncing zettelkasten with git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Reacting to setbacks.md",
+                "file": "Zettelkasten/Syncing zettelkasten with git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Reacting to setbacks.md"
+                "file": "Zettelkasten/Syncing zettelkasten with git.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eb71611a9e75b2f",
+  "active": "b284c8220d90ec83",
   "lastOpenFiles": [
+    "Zettelkasten/Reacting to setbacks.md",
+    "Zettelkasten/Syncing zettelkasten with git.md",
     "Zettelkasten/Ultralearning.md",
     "Zettelkasten/ML beginner's guide.md",
-    "Zettelkasten/Reacting to setbacks.md",
     "Zettelkasten/Free to Focus.md",
     "Zettelkasten/Collision decision matrix.md",
     "Zettelkasten/Differentiating with the dx notation.md",
