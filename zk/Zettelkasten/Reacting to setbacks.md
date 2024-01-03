@@ -13,6 +13,8 @@ In the last few weeks, I have come across several ideas or thoughts on dealing w
 	- I found this one particularly useful when dealing with my past
 	- The idea of locus of control is useful there
 
+This note does not end there. The idea is to collate different bits of practical knowledge in one place
+
 
 
 
