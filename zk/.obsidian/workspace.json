@@ -11,25 +11,40 @@
             "id": "71ec95f944e2ec7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Ultralearning.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "59d24c07b007601e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f25d6f2b53974d7d",
+            "id": "da39ac7f2ebc05fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/ML beginner's guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12999043090aa2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Ultralearning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Ultralearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Ultralearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Ultralearning.md"
+              }
             }
           }
         ]
@@ -152,8 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c462cdbe83277e1",
+  "active": "12999043090aa2bb",
   "lastOpenFiles": [
+    "Zettelkasten/Reacting to setbacks.md",
+    "Zettelkasten/Free to Focus.md",
+    "Zettelkasten/Collision decision matrix.md",
+    "Zettelkasten/Differentiating with the dx notation.md",
+    "Zettelkasten/ML beginner's guide.md",
+    "Zettelkasten/Ultralearning.md",
     "Welcome.md"
   ]
 }
