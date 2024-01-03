@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6afcf32435fe32",
+        "id": "a41967194299f47e",
         "type": "tabs",
         "children": [
           {
-            "id": "71ec95f944e2ec7f",
+            "id": "0eb71611a9e75b2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Ultralearning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da39ac7f2ebc05fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/ML beginner's guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12999043090aa2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Ultralearning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12999043090aa2bb",
+  "active": "3c462cdbe83277e1",
   "lastOpenFiles": [
     "Zettelkasten/Reacting to setbacks.md",
     "Zettelkasten/Free to Focus.md",
