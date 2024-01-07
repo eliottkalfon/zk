@@ -35,6 +35,19 @@ dy &= u \cdot dv + v \cdot du && \text{$du \cdot dv$ is too small of a quantity}
 \end{align} 
 $$
 
+Another example, differentiating $y = \sqrt{x}$:
+$$
+\begin{align} 
+y + dy &= \sqrt{x + dx} \\
+(y + dy)^2 &= x + dx \\
+y^2 + 2y \cdot dy + (dy)^2 &= x + dx \\
+2y \cdot dy + (dy)^2 &= dx && \text{subtracting $y^2$ from both sides} \\
+2y \cdot dy &= dx && \text{ignoring $(dy)^2$ because it is a second-order small quantity} \\
+dy &= \frac{dx}{2y} && \text{dividing both sides by $2y$} \\
+\frac{dy}{dx} &= \frac{1}{2y} && \text{dividing both sides by $dx$}
+\end{align}
+$$
+
 
 ___
 # References
