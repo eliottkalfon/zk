@@ -19,4 +19,4 @@ The integration of $a^x$ is therefore: $\frac{1}{ln(a)} \cdot a^x$
 
 ___
 # References
-*Calculus Made Easy* - Silvanus Thompson, ISBN: 1629920282, [ebook](https://calculusmadeeasy.org/)
+[[Calculus Made Easy]] - Silvanus Thompson, ISBN: 1629920282, [ebook](https://calculusmadeeasy.org/)

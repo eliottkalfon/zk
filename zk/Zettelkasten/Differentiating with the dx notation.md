@@ -51,4 +51,4 @@ $$
 
 ___
 # References
-*Calculus Made Easy* - Silvanus Thompson, ISBN: 1629920282, [ebook](https://calculusmadeeasy.org/)
+[[Calculus Made Easy]] - Silvanus Thompson, ISBN: 1629920282, [ebook](https://calculusmadeeasy.org/)

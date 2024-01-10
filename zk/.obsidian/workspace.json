@@ -66,9 +66,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ea963f39c7a1991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Turning on and off again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe92f64a7fedfaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Derivation of the constant e.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30d463a47898bc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Binomial theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0c11c3622d2c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Permutations and combinations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Six principles of influence.md",
+                "file": "Zettelkasten/Permutations and combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Six principles of influence.md",
+                "file": "Zettelkasten/Permutations and combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Six principles of influence.md"
+                "file": "Zettelkasten/Permutations and combinations.md"
               }
             }
           }
@@ -195,14 +243,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c5ee03045f7cb1c",
+  "active": "cf0c11c3622d2c98",
   "lastOpenFiles": [
-    "Zettelkasten/Three SQL join algorithms.md",
-    "Zettelkasten/Six principles of influence.md",
-    "Zettelkasten/Four pillars of integrity.md",
-    "Zettelkasten/Reacting to setbacks.md",
+    "Zettelkasten/Binomial theorem.md",
+    "Zettelkasten/Permutations and combinations.md",
+    "Zettelkasten/Derivation of the constant e.md",
     "Zettelkasten/Differentiating with the dx notation.md",
     "Zettelkasten/Differentiating or integrating a^x.md",
+    "Zettelkasten/Reacting to setbacks.md",
+    "Zettelkasten/Six principles of influence.md",
+    "Zettelkasten/Turning on and off again.md",
+    "Zettelkasten/Three SQL join algorithms.md",
+    "Zettelkasten/Four pillars of integrity.md",
     "Zettelkasten/Indistractable.md",
     "Zettelkasten/ML beginner's guide.md",
     "Zettelkasten/Syncing zettelkasten with git.md",
