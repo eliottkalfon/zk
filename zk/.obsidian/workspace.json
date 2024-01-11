@@ -90,33 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30d463a47898bc77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Binomial theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf0c11c3622d2c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Permutations and combinations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Permutations and combinations.md",
+                "file": "Zettelkasten/Derivation of the constant e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Permutations and combinations.md",
+                "file": "Zettelkasten/Derivation of the constant e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Permutations and combinations.md"
+                "file": "Zettelkasten/Derivation of the constant e.md"
               }
             }
           }
@@ -243,11 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0c11c3622d2c98",
+  "active": "fe92f64a7fedfaf5",
   "lastOpenFiles": [
     "Zettelkasten/Binomial theorem.md",
-    "Zettelkasten/Permutations and combinations.md",
     "Zettelkasten/Derivation of the constant e.md",
+    "Zettelkasten/Permutations and combinations.md",
     "Zettelkasten/Differentiating with the dx notation.md",
     "Zettelkasten/Differentiating or integrating a^x.md",
     "Zettelkasten/Reacting to setbacks.md",

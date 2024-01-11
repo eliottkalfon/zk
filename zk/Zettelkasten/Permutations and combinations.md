@@ -47,9 +47,8 @@ In our examples, this is $2^3 = 8$. The combinations include: {}, {A}, {B}, {C},
 
 To calculate all permutations, we need to compute the sum of all permutations at all lengths: $\frac{n!}{(n-1)!} + \frac{n!}{(n-2)!} + ... + \frac{n!}{(n-n)!}$
 
-Further expansion needed
+Which simplifies to: $n + n(n-1) + ... + n!$
 
-However
 
 
 
